@@ -12,6 +12,7 @@ namespace Homework2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
             bool stop = false;
             while (!stop)
             {
