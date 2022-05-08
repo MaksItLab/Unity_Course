@@ -11,6 +11,7 @@ namespace Homework3
     {
         static void Main(string[] args)
         {
+            Helpers.OutLine("Third homework");
             bool func = true;
             int action;
             string choice;
